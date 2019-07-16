@@ -59,6 +59,7 @@ It consists of three main parts: the [_Chart Panel_](#chart-panel), the [_Code P
 ### Chart Panel
 
 ![Ramp Charts](images/rampchart.png)<br>
+![Bla](images/testSquare.bla)<br>
 
 The `Chart Panel` (an example is shown above) contains _Ramp Charts_ and _Contribution Bars_.
 
